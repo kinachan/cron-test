@@ -12,10 +12,14 @@ Cronジョブを模範した（？）node-scheduleを採用しています。
 ## セットアップ
 ```
 npm install
-or 
-yarn install (yarnのインストールが必要）
-```
 
+```
+or 
+```
+yarn install
+```
+ (上記はyarnのインストールが必要）
+ 
 ## 実行コマンド
 
 ```
