@@ -7,6 +7,15 @@
 
 Cronジョブを模範した（？）node-scheduleを採用しています。
 
+実行にはnode.jsのインストールが必要です。
+
+## セットアップ
+```
+npm install
+or 
+yarn install (yarnのインストールが必要）
+```
+
 ## 実行コマンド
 
 ```
